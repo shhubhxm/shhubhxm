@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 -->
 
 -----
-Credits: [shhubxm](https://github.com/shhubhxm)
+Credits: [shhubhxm](https://github.com/shhubhxm)
 
 Last Edited on: 18/05/2021
