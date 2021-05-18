@@ -22,8 +22,12 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=shhubhxm&count_private=true&theme=tokyonight&showicons=true" alt="Shubham's Github Stats">
 
+<h3 align="center">Streak</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shhubhxm&" alt="sauravchamoli17" /></p>
+
 </br>
 </br>
+
 <i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
