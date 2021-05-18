@@ -39,7 +39,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <a href="https://devfolio.co/@shubhxm" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
-![profile-views](https://komarev.com/ghpvc/?username=your-github-username)
+![profile-views](https://komarev.com/ghpvc/?username=shhubhxm)
 
 Here are some ideas to get you started:
 
