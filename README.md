@@ -23,7 +23,7 @@ _<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;
 
 <h3> I'm a Computer Science and Engineering Student </h3>
 
-- 👨‍💻 I’m currently working on machine learning projects and web development technologies like JS, React etc.
+- 👨‍💻 I’m currently working on machine learning projects and web development technologies like MERN.
 - 📚 I’m currently learning everything about ML and DL.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love photography and I'm a fitness enthusiast.
