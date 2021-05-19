@@ -84,14 +84,14 @@
 <div align="center">
 
    ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-   ![Django](http://img.shields.io/badge/-Django-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+   ![mongodb](https://img.shields.io/badge/-mongodb-CB3837?style=flat-square&logo=mongodb&logoColor=8e9775)
    ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
    ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
    ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
    ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
    ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-   ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+   ![Djano](https://img.shields.io/badge/-Django-%23CC6699?style=flat-square&logo=django&logoColor=ffffff)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
    ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
    ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
