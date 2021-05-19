@@ -17,9 +17,10 @@
 
 <h2 align="center"> Hi there, I'm Shubham </h2>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/source.gif" padding-top="10px" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/source.gif"
+   padding-top="10px" />
 
-<h3> I'm a Computer Science and Engineering Student </h3>  
+<h3> I'm a Computer Science and Engineering Student </h3>
 
 - 👨‍💻 I’m currently working on machine learning projects and web development technologies like JS, React etc.
 - 📚 I’m currently learning everything about ML and DL.
@@ -34,11 +35,13 @@
 </summary>
 
 <div align="center">
-   
+
    _<h4 align="center">Streak</h4>_
-   
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shhubhxm&theme=dark&fire=743cc7&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7" alt="shhubhxm" /></p>
-  
+
+   <p><img align="center"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=shhubhxm&theme=dark&fire=743cc7&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7"
+         alt="shhubhxm" /></p>
+
    _<h4 align="center">Stats</h4>_
    <img align="left"
       src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=shhubhxm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e"
@@ -69,7 +72,6 @@
    <a href="mailto:vyasshubham.41@gmail.com?subject=Hola%20Shubham!"><img
          src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
          alt="Gmail" /></a>&nbsp;
-   <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
 <!-- my tools -->
@@ -78,6 +80,7 @@
    <h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
          width="28" /> My Tools</h2>
 </summary>
+
 <div align="center">
 
    ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
