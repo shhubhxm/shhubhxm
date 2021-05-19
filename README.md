@@ -39,13 +39,13 @@
    _<h4 align="center">Streak</h4>_
 
    <p><img align="center"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=shhubhxm&theme=dark&hide_border=true&fire=743cc7&sideNums=b6336c&currStreakNum=b6336c&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=shhubhxm&theme=dark&hide_border=true&fire=743cc7&sideNums=b6336c&currStreakNum=b6336c&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7&background=141321"
          alt="shhubhxm" /></p>
 
    _<h4 align="center">Stats</h4>_
    <img align="left"
-      src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=shhubhxm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e"
-      alt="Shubham's Github Stats" width="60%">
+      src="https://github-readme-stats.vercel.app/api?username=shhubhxm&show_icons=true&theme=radical&border_color=141321"
+      alt="Shubham's Github Stats" width="60%">   
 
    <img
       src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=shhubhxm&show_icons=true&hide_border=true&theme=radical"
