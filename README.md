@@ -50,7 +50,11 @@
    <img
       src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=shhubhxm&show_icons=true&hide_border=true&theme=radical"
       width="37%" alt="Shubham's Top Languages">
-
+      
+   <img
+      src="https://komarev.com/ghpvc/?username=shhubhxm&style=flat-square&color=C13571"
+      width="10%" alt="Profile Views">
+      
    <br>
 </div>
 
