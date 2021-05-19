@@ -15,7 +15,8 @@
 </div>
 <br>
 
-<h2 align="center"> Hi there, I'm Shubham </h2>
+_<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;"> Hi there, I'm Shubham </span> <img src="https://media.giphy.com/media/nF64geTGfVoNq/source.gif" align="center"
+         width="38" height="38"/> </h2>_
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/source.gif"
    padding-top="10px" />
@@ -45,8 +46,8 @@
    _<h4 align="center">Stats</h4>_
    <img align="left"
       src="https://github-readme-stats.vercel.app/api?username=shhubhxm&show_icons=true&theme=radical&border_color=141321"
-      alt="Shubham's Github Stats" width="60%">   
-
+      alt="Shubham's Github Stats" width="60%">
+      
    <img
       src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=shhubhxm&show_icons=true&hide_border=true&theme=radical"
       width="37%" alt="Shubham's Top Languages">
