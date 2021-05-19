@@ -23,10 +23,10 @@ _<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;
 
 <h3> I'm a Computer Science and Engineering Student </h3>
 
-- 👨‍💻 I’m currently working on machine learning projects and web development technologies like MERN.
-- 📚 I’m currently learning everything about ML and DL.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love photography and I'm a fitness enthusiast.
+- <img src="images/clock.gif" width="30px"> I’m currently working on machine learning projects and web development technologies like MERN.
+- <img src="images/yawning_face.gif" width="30px"> I’m currently learning everything about ML and DL.
+- <img src="images/flexed_biceps.gif" width="30px"> Future Goals: Learn more technologies - Never stop creating new ideas.
+- <img src="images/thumbs_up.gif" width="30px"> Fun fact: I love photography and I'm a fitness enthusiast.
 
 <!-- github stats -->
 
