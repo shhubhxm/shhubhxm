@@ -15,11 +15,11 @@
 </div>
 <br>
 
-<h2> Hi there, I'm Shubham </h2>
+<h2 align="center"> Hi there, I'm Shubham </h2>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/source.gif" padding-top="10px" />
 
-### I'm a Computer Science and Engineering Student  
+<h3> I'm a Computer Science and Engineering Student </h3>  
 
 - 👨‍💻 I’m currently working on machine learning projects and web development technologies like JS, React etc.
 - 📚 I’m currently learning everything about ML and DL.
@@ -122,4 +122,4 @@
 
 Credits: [shhubhxm](https://github.com/shhubhxm)
 
-Last Edited on: 18/05/2021
+Last Edited on: 19/05/2021
