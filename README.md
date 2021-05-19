@@ -40,21 +40,21 @@ _<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;
    _<h4 align="center">Streak</h4>_
 
    <p><img align="center"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=shhubhxm&theme=dark&hide_border=true&fire=b6336c&sideNums=b6336c&currStreakNum=b6336c&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7&background=141321"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=shhubhxm&theme=dark&hide_border=true&fire=b6336c&sideNums=b6336c&currStreakNum=b6336c&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7&background=141321&dates=c8c2bc"
          alt="shhubhxm" /></p>
 
    _<h4 align="center">Stats</h4>_
    <img align="left"
-      src="https://github-readme-stats.vercel.app/api?username=shhubhxm&show_icons=true&theme=radical&border_color=141321"
+      src="https://github-readme-stats.vercel.app/api?username=shhubhxm&show_icons=true&theme=radical&border_color=141321&text_color=c8c2bc"
       alt="Shubham's Github Stats" width="60%">
       
    <img
-      src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=shhubhxm&show_icons=true&hide_border=true&theme=radical"
+      src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=shhubhxm&show_icons=true&hide_border=true&theme=radical&text_color=c8c2bc"
       width="37%" alt="Shubham's Top Languages">
       
    <img
       src="https://komarev.com/ghpvc/?username=shhubhxm&style=flat-square&color=C13571"
-      width="10%" alt="Profile Views">
+      width="12%" alt="Profile Views">
       
    <br>
 </div>
@@ -89,7 +89,7 @@ _<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;
 <div align="center">
 
    ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-   ![mongodb](https://img.shields.io/badge/-mongodb-CB3837?style=flat-square&logo=mongodb&logoColor=8e9775)
+   ![mongodb](https://img.shields.io/badge/-MongoDB-cbbcb1?style=flat-square&logo=mongodb&logoColor=556052)
    ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
    ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -100,12 +100,11 @@ _<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
    ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
    ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-   ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+   ![Npm](https://img.shields.io/badge/-npm-d49a89?style=flat-square&logo=npm)
    ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-   ![Microsoft Sql
-   Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-   ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-   ![ML](https://img.shields.io/badge/-MachineLearning-FCA121?style=flat-square&logo=ml)
+   ![Microsoft SqlServer](https://img.shields.io/badge/-Sql%20Server-d8d3cd?style=flat-square&logo=microsoft-sql-server&logoColor=393e46)
+   ![Git](https://img.shields.io/badge/-Git-7e8a97?style=flat-square&logo=git&logoColor=%23ffffff)
+   ![ML](https://img.shields.io/badge/-MachineLearning-5d5b6a?style=flat-square&logo=ai&logoColor=ffffff)
    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
    ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
    ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
