@@ -39,7 +39,7 @@
    _<h4 align="center">Streak</h4>_
 
    <p><img align="center"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=shhubhxm&theme=dark&fire=743cc7&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=shhubhxm&theme=dark&hide_border=true&fire=743cc7&sideNums=b6336c&currStreakNum=b6336c&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7"
          alt="shhubhxm" /></p>
 
    _<h4 align="center">Stats</h4>_
