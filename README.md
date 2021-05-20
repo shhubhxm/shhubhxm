@@ -121,7 +121,7 @@ _<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;
 <h2></h2>
 <div align="center">
    <h3 align="center">Show some &nbsp;<img src="images/revolving_hearts.gif" width="38px">&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+</div><img src="images/wave.svg" />
 
 ---
 
