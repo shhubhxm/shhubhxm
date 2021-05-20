@@ -77,6 +77,12 @@ _<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;
    <a href="mailto:vyasshubham.41@gmail.com?subject=Hola%20Shubham!"><img
          src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
          alt="Gmail" /></a>&nbsp;
+   <a href="https://devpost.com/vyasshubham-41"><img
+         src="https://img.shields.io/badge/devpost-999b84.svg?&style=for-the-badge&logo=devpost&logoColor=white"
+         alt="LinkedIn" /></a>&nbsp;
+   <a href="https://devfolio.co/@shubhxm"><img
+         src="https://img.shields.io/badge/devfolio-87a7b3.svg?&style=for-the-badge&logo=devfolio&logoColor=white"
+         alt="LinkedIn" /></a>&nbsp;
 </p>
 
 <!-- my tools -->
