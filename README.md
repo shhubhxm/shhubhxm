@@ -121,7 +121,7 @@ _<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;
 <h2></h2>
 <div align="center">
    <h4><i>Random dev joke for you!</i><br></h4>
-   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api"
+   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api/"
          alt="README Jokes"></a>
 </div>
 <h2></h2>
