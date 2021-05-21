@@ -105,7 +105,7 @@ _<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;
    ![Djano](https://img.shields.io/badge/-Django-%23CC6699?style=flat-square&logo=django&logoColor=ffffff)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ededd0)
    ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-   ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+   ![Nodejs](https://img.shields.io/badge/-Nodejs-5f939a?style=flat-square&logo=nodejs&logoColor=ffffff)
    ![Npm](https://img.shields.io/badge/-npm-d49a89?style=flat-square&logo=npm)
    ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
    ![Microsoft SqlServer](https://img.shields.io/badge/-Sql%20Server-d8d3cd?style=flat-square&logo=microsoft-sql-server&logoColor=393e46)
