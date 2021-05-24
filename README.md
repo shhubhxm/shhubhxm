@@ -40,16 +40,16 @@ _<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;
    _<h4 align="center">Streak</h4>_
 
    <p><img align="center"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=dark&hide_border=true&fire=b6336c&sideNums=b6336c&currStreakNum=b6336c&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7&background=141321&dates=c8c2bc"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=shhubhxm&theme=dark&hide_border=true&fire=b6336c&sideNums=b6336c&currStreakNum=b6336c&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7&background=141321&dates=c8c2bc"
          alt="shhubhxm" /></p>
 
    _<h4 align="center">Stats</h4>_
    <img align="left"
-      src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical&border_color=141321&text_color=c8c2bc"
+      src="https://github-readme-stats.vercel.app/api?username=shhubhxm&show_icons=true&theme=radical&border_color=141321&text_color=c8c2bc"
       alt="Shubham's Github Stats" width="60%">
       
    <img
-      src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=&show_icons=true&hide_border=true&theme=radical&text_color=c8c2bc"
+      src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=shhubhxm&show_icons=true&hide_border=true&theme=radical&text_color=c8c2bc"
       width="37%" alt="Shubham's Top Languages">
       
    <img
