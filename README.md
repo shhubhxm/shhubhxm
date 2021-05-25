@@ -83,6 +83,9 @@ _<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;
    <a href="https://devfolio.co/@shubhxm"><img
          src="https://img.shields.io/badge/devfolio-87a7b3.svg?&style=for-the-badge&logo=devfolio&logoColor=white"
          alt="LinkedIn" /></a>&nbsp;
+   <a href="https://www.hackerrank.com/vyasshubham_41"><img
+         src="https://img.shields.io/badge/hackerrank-4a503d.svg?&style=for-the-badge&logo=devfolio&logoColor=green&textColor=green"
+         alt="LinkedIn" /></a>&nbsp;
 </p>
 
 <!-- my tools -->
