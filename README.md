@@ -15,12 +15,9 @@
 </div>
 <br>
 
-_<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;"> Hi there, I'm Shubham </span> <img src="https://media.giphy.com/media/nF64geTGfVoNq/source.gif" align="center"
-         width="38" height="38"/> </h2>
-<div>
-   <img align="" alt="GIF" height="160px" src="images/—Pngtree—black line_5487824.png" />
-</div>
-
+_<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;"> 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓢𝓱𝓾𝓫𝓱𝓪𝓶 </span> <img src="https://media.giphy.com/media/nF64geTGfVoNq/source.gif" align="center"
+         width="38" height="38"/> </h2>_
+         
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/source.gif"
    padding-top="10px" />
 
