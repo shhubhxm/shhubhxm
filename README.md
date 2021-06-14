@@ -1,8 +1,8 @@
 <!-- hola section -->
 
 <div align="center">
-   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰
-      <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 
+      <𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗𝖘/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
    </h2>
 </div>
 
@@ -14,10 +14,10 @@
 
 </div>
 <br>
-
-<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;"> 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 𝒮𝒽𝓊𝒷𝒽𝒶𝓂 </span> <img src="https://media.giphy.com/media/nF64geTGfVoNq/source.gif" align="center"
+<sup>
+<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;">  𝐻𝒾 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 𝒮𝒽𝓊𝒷𝒽𝒶𝓂  </span> <img src="https://media.giphy.com/media/nF64geTGfVoNq/source.gif" align="center"
          width="38" height="38"/> </h2>
-         
+ </sup>        
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/source.gif"
    padding-top="10px" />
 
@@ -136,6 +136,6 @@
 
 <img align="right" src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/source.gif" alt="Welcome!" width="56" />
 
-Credits: [shhubhxm](https://github.com/shhubhxm)
+Credits: [░▒▓█►─═  𝐬𝐡𝐡𝐮𝐛𝐡𝐱𝐦 ═─◄█▓▒░](https://github.com/shhubhxm)
 
 Last Edited on: 19/05/2021
