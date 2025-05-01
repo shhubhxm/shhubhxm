@@ -91,10 +91,10 @@
 
 <!-- my tools -->
 
-<summary>
+<details>
    <h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
          width="28" /> My Tools</h2>
-</summary>
+</details>
 
 <div align="center">
 
