@@ -1,7 +1,15 @@
-# 👋 Hi, I'm Shubham Vyas
+<h1 align="center">👋 Hi, I'm Shubham Vyas</h1>
 
-🎓 Machine Learning Engineer | Data Scientist | Generative AI Enthusiast  
-📍 Santa Clara, CA | vyasshubham.41@gmail.com | [LinkedIn](https://www.linkedin.com/in/shubhamvyas7/) | [GitHub](https://github.com/shhubhxm)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+%7C+Data+Scientist+%7C+Generative+AI+Enthusiast;Open+Source+Contributor+%7C+Healthcare+AI+%7C+LLM+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  📍 Santa Clara, CA &nbsp;|&nbsp;
+  📧 vyasshubham.41@gmail.com &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/shubhamvyas7/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/shhubhxm">GitHub</a>
+</p>
 
 ---
 
@@ -52,11 +60,21 @@ Fine-tuned LLMs like Mistral 7B, built healthcare chatbots using T5 Transformers
 
 ---
 
-## 🚀 Let's Connect
+## 📊 GitHub Stats
 
-📬 vyasshubham.41@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shubhamvyas7/) | [GitHub](https://github.com/shhubhxm) | [Medium](https://vyasshubham.medium.com/)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shhubhxm&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shhubhxm&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhubhxm&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-> “The best way to predict the future is to invent it.” – Alan Kay
+## 🌍 Open to Opportunities
+
+I’m actively exploring full-time roles in Machine Learning, Data Science, or Generative AI.  
+Open to roles in healthcare, fintech, or innovative startups. Let’s connect!
+
+---
