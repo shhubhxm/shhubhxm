@@ -1,3 +1,4 @@
+<details>
 <!-- hola section -->
 
 <div align="center">
@@ -139,3 +140,4 @@
 Credits: [░▒▓█►─═  𝐬𝐡𝐡𝐮𝐛𝐡𝐱𝐦 ═─◄█▓▒░](https://github.com/shhubhxm)
 
 Last Edited on: 19/05/2021
+</details>
