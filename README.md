@@ -29,12 +29,12 @@
 - <img src="images/thumbs_up.gif" width="30px"> Fun fact: I love photography and I'm a fitness enthusiast.
 
 <!-- github stats -->
-<details>
+
 <summary>
    <h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
          width="28" /> My Github Stats</h2>
 </summary>
-</details>
+
 <div align="center">
 
    _<h5 align="center">🆂🆃🆁🅴🅰🅺</h5>_
@@ -60,12 +60,12 @@
 </div>
 
 <!-- connect with me -->
-<details>
+
 <summary>
    <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
          width="28" /> To connect with me</h2>
 </summary>
-</details>
+
 <p align="center">
    <br>
    <a href="https://www.instagram.com/shhubhxm/"><img
@@ -90,10 +90,10 @@
 
 <!-- my tools -->
 
-<details>
+
    <h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
          width="28" /> My Tools</h2>
-</details>
+
 
 <div align="center">
 
