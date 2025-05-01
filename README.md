@@ -30,12 +30,12 @@
 - <img src="images/thumbs_up.gif" width="30px"> Fun fact: I love photography and I'm a fitness enthusiast.
 
 <!-- github stats -->
-
+<details>
 <summary>
    <h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
          width="28" /> My Github Stats</h2>
 </summary>
-
+</details>
 <div align="center">
 
    _<h5 align="center">🆂🆃🆁🅴🅰🅺</h5>_
