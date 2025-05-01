@@ -55,7 +55,7 @@ Fine-tuned LLMs like Mistral 7B, built healthcare chatbots using T5 Transformers
 ## 🚀 Let's Connect
 
 📬 vyasshubham.41@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shubhamvyas7/) | [GitHub](https://github.com/shhubhxm) | [Medium](https://vyasshubham.medium.com/))
+🔗 [LinkedIn](https://www.linkedin.com/in/shubhamvyas7/) | [GitHub](https://github.com/shhubhxm) | [Medium](https://vyasshubham.medium.com/)
 
 ---
 
