@@ -49,7 +49,7 @@ Fine-tuned LLMs like Mistral 7B, built healthcare chatbots using T5 Transformers
 
 - 🔊 [Speech Enhancement & Noise Reduction System](https://github.com/shhubhxm/Deep-Learning-Based-Speech-Enhancement-System-and-Noise-Reduction)  
 - 🧬 [OCL Mapper – Clinical Semantic Search using BioBERT](https://github.com/shhubhxm/ocl-mapper/tree/feature/initial-setup)  
-- 🧠 [Fetch ML Apprentice: Sentence Transformer + Multi-task Learning](https://github.com/shhubhxm/fetch-ml-apprentice)
+- 🧠 [Spatial Transcriptomics and Cell Segmentation Pipeline](https://github.com/shhubhxm/Spatial-Transcriptomics-and-Cell-Segmentation-Pipeline)
 
 ---
 
