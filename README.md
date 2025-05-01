@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shubham Vyas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=LMachine+Learning+Engineer+%7C+Data+Scientist+%7C+Generative+AI+Enthusiast;Open+Source+Contributor+%7C+Healthcare+AI+%7C+LLM+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+%7C+Data+Scientist+%7C+Generative+AI+Enthusiast;Open+Source+Contributor+%7C+Healthcare+AI+%7C+LLM+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
